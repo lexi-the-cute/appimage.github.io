@@ -23,7 +23,7 @@
     "dotenv": "^8.2.0",
     "electron-prompt": "^1.6.2",
     "electron-store": "^6.0.1",
-    "electron-updater": "^4.3.8",
+    "electron-updater": "^6.3.9",
     "execa": "^2.1.0",
     "fs-extra": "^9.0.1",
     "get-folder-size": "^2.0.1",
@@ -31,7 +31,7 @@
     "push-receiver": "^2.1.1",
     "robotjs": "git+https://github.com/TeamAround/robotjs.git#5fe7ddfedd2bde70cdd91095202bf480860935a7",
     "semver": "^7.3.4",
-    "systeminformation": "5.7.4"
+    "systeminformation": "5.23.8"
   },
   "productName": "Around"
 }
